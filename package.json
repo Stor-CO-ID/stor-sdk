@@ -1,6 +1,6 @@
 {
   "name": "stor-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Official SDK for Skuy Files API (stor.co.id)",
   "license": "MIT",
   "author": "Skuy Files <hello@stor.co.id>",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/Stor-CO-ID/stor-sdk"
   },
-  "homepage": "https://stor.co.id/docs/api",
+  "homepage": "https://github.com/Stor-CO-ID/stor-sdk#readme",
   "bugs": {
     "url": "https://github.com/Stor-CO-ID/stor-sdk/issues"
   },
