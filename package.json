@@ -6,8 +6,11 @@
   "author": "Skuy Files <hello@stor.co.id>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicepkg/skuy-files",
-    "directory": "packages/sdk"
+    "url": "https://github.com/Stor-CO-ID/stor-sdk"
+  },
+  "homepage": "https://stor.co.id/docs/api",
+  "bugs": {
+    "url": "https://github.com/Stor-CO-ID/stor-sdk/issues"
   },
   "keywords": [
     "stor",
